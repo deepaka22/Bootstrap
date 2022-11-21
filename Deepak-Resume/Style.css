@@ -1,0 +1,136 @@
+.body{
+background-color:#24292f;
+height: 1700px;
+}
+.boxforimage{
+    width: 150px;
+    height: 150px;
+    border: 2px solid yellowgreen;
+    border-radius: 75%;
+    background-color:black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;    
+}
+#image1{
+    width: 7rem;
+    height: 8rem;
+    display: inline-block;
+    margin-left: 10px;
+}
+.row{
+    margin-bottom: 10px;
+}
+.name{
+    background-image:linear-gradient(rgb(165, 165, 30),rgb(58, 56, 56));
+    text-align: center;
+    word-spacing: 10px;
+    font-size: 51px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+.basicinfo{
+    background-color:burlywood;
+    text-align: center;
+    word-spacing: 2px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;    
+}
+#leftcolumn{
+    background-color: rgb(190, 198, 206);
+    margin-left: auto;
+    margin-right: auto;
+}
+#rightcolumn{
+    background-color:rgb(190, 198, 206);
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile{
+    font-size: 20px;
+    padding-left: 10px;
+    font-family:cursive;
+}
+.profileunderline{
+    padding-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-width: 3.1px;
+    width:fit-content;
+}
+.aboutme{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.techicalskills{
+    text-align: center;
+}   
+#star1{
+    color:yellowgreen;
+}
+#star2{
+    color: yellowgreen;
+}
+#star3{
+    color: yellowgreen;
+}
+.csr{
+    margin-top: 15px;
+   font-weight: bold;
+   text-align: center;
+}
+.hcl{
+    margin-top: 10px;
+    font-weight: bold;    
+}
+.achieve{
+    margin-top: 5px;
+    font-weight: bold;
+}
+.lists{
+    margin-top: 5px;
+}
+/* .hobbies{
+    width: 150px;
+    height: 50px;
+} */
+.borders{
+    position:relative;
+    width:100%;
+    height: 100px;
+    border: 2px solid rgb(190, 198, 206);
+    border-radius: 25px;
+    
+}
+#book{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+#book2{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+#book3{
+    margin-top: 10px;
+    margin-left: 45px;
+}
+#footer{
+  background-color:slategrey;
+  /* height:190px; */
+  margin-top: 15px;
+  font-size: 17px;
+  padding-left: 10px;
+  font-family: cursive;
+  padding-top: 20px;
+  font-weight: bold;
+}
+.footerborder{
+    margin-top: 15px;
+}
+.footerimage{
+    border-radius: 20px;
+}
+.footerimage1{
+    border-radius: 5px;
+}
